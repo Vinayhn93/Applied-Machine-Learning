@@ -1,10 +1,11 @@
 '''
-Assignmenr1
+Assignmenr1 : Optimisation Problem
 Students:
-Name                    StudentID
-Rahul Rajendran         N10145281
-karthikeyan Jayavel     N10124004
-Vinay HN                N10180893
+Name                    
+Vinay HN 
+Master of Information Technology.
+Queensland University of Technology
+ 
 '''
 
 

@@ -1,7 +1,6 @@
 '''
-Assignmenr1 : Optimisation Problem
-Students:
-Name                    
+Assignment : Optimisation Problem
+Student:                    
 Vinay HN 
 Master of Information Technology.
 Queensland University of Technology

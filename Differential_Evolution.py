@@ -4,24 +4,6 @@ Student:
 Vinay HN 
 Master of Information Technology.
 Queensland University of Technology
- 
-'''
-
-
-'''
-
-2018 Assigment One : Differential Evolution
-    
-Scafolding code
-
-Complete the missing code at the locations marked 
-with 'INSERT MISSING CODE HERE'
-
-To run task_2 you will need to download an unzip the file dataset.zip
-
-If you have questions, drop by in one of the pracs on Wednesday 
-     11am-1pm in S503 or 3pm-5pm in S517
-You can also send questions via email to f.maire@qut.edu.au
 
 
 '''

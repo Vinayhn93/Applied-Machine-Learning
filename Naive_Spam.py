@@ -6,6 +6,8 @@ Method/Model : Naive Bayes
 Result: We achieved 98% of the Accuracy in Our Model
 Reference : https://towardsdatascience.com/naive-bayes-intuition-and-implementation-ac328f9c9718
 '''
+
+#Commented Naive Bayes
 import pandas as pd
 #Data Source : https://archive.ics.uci.edu/ml/machine-learning-databases/00228/
 Data = pd.read_table('C:\\Users\\HP Intel i5\\Desktop\\Applied AI\\Naive1',names=['Label','Message'])
